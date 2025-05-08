@@ -1,13 +1,13 @@
 {
-  "name": "law101",
+  "name": "mind matters",
   "version": "1.0.0",
-  "description": "Low101 to talk about the general laws",
+  "description": "mind matters",
   "main": "index.js",
   "scripts": {
-    "sass:build": "sass --no-source-map scss:css",
+    "sass.build": "sass --no-source-map scss:css",
     "sass:watch": "sass --no-source-map --watch scss:css"
   },
-  "author": "Yousef Assadi",
+  "author": "Zeina sabha",
   "license": "Amman Academy",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
